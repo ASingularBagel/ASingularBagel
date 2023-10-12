@@ -34,5 +34,5 @@ PArtfolio (working title), one route portofolio website for visual artists (in d
 - 🌱 I’m currently learning typescript and tailwind
 - 🤔 I’m looking to collaborate on web development projects
 - 📫 How to reach me: LinkedIn <a href="https://www.linkedin.com/in/christianngb/">@christianngb</a>
-- ⚡ Fun fact: I've been maining the Hunting Horn since MH gen 3 
+- ⚡ Fun fact: I've been maining the Hunting Horn since MH gen ult
 
