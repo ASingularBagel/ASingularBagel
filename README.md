@@ -13,7 +13,7 @@ Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy
 ### [![My Skills](https://skillicons.dev/icons?i=react,next,googlecloud,firebase,vercel,redux,mongodb,mysql,redis,rails)](https://skillicons.dev)
 
 #### And more...
-### [![My Skills](https://skillicons.dev/icons?i=linux,figma,git)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=linux,figma,git,postman)](https://skillicons.dev)
 
 Most recent development projects
 - 
@@ -32,8 +32,9 @@ Most recent development projects
 <p style="font-weight: bold">- MERN stack</p>
 <p style="font-weight: bold">- Ruby on Rails</p>
 <p style="font-weight: bold">- Working with SQL Databases (used to NoSQL)</p>
+<p style="font-weight: bold">- NestJS</p>
 
-- 🤔 Building personal website, coming soon...
+- 🤔 Check out my <a href="https://christian-portfoliov1.vercel.app/">website !</a>
 - 📫 How to reach me: LinkedIn <a href="https://www.linkedin.com/in/christianngb/">@christianngb</a>
 - ⚡ Fun fact: I've been maining the Hunting Horn since MH gen ult
 
