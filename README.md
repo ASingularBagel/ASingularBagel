@@ -5,7 +5,15 @@ Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy
 ### Welcome to my page ! 
 <p>I'm Christian, aspiring Fullstack Developer and Web Designer going for a software engineering degree at uOttawa.</p>
 
-### [![My Skills](https://skillicons.dev/icons?i=react,next,redux,mongodb,mysql,java,python,ruby,rails)](https://skillicons.dev)
+### Skills 
+#### Languages
+### [![My Skills](https://skillicons.dev/icons?i=ts,js,java,python,ruby)](https://skillicons.dev)
+
+#### Technologies
+### [![My Skills](https://skillicons.dev/icons?i=react,next,googlecloud,firebase,vercel,redux,mongodb,mysql,redis,rails)](https://skillicons.dev)
+
+#### And more...
+### [![My Skills](https://skillicons.dev/icons?i=linux,figma,git)](https://skillicons.dev)
 
 Most recent development projects
 - 
