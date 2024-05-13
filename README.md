@@ -7,7 +7,7 @@ Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy
 
 ### Skills 
 #### Languages
-### [![My Skills](https://skillicons.dev/icons?i=ts,js,java,python,ruby)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=ts,js,java,ruby)](https://skillicons.dev)
 
 #### Technologies
 ### [![My Skills](https://skillicons.dev/icons?i=react,next,googlecloud,firebase,vercel,redux,mongodb,mysql,redis,rails)](https://skillicons.dev)
